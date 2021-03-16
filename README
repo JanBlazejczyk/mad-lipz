@@ -1,0 +1,22 @@
+************************************
+
+Mad Libs is a phrasal template word game which consists of one player prompting others for a list of words to substitute for blanks in a story before reading aloud. The game is frequently played as a party game or as a pastime.
+
+************************************
+
+This program lets you create your own story templates, then it randomly chooses one and asks the user to input certain words. Then the short story with inputed words is showed on the screen.
+
+************************************
+
+Create your own Madlipz template:
+- the templates are stored in the 'Texts' directory
+- cd into 'Texts' directory and create a plain text file
+- just type in the sentence and replace the words you want the user to prompt by the words 'ADJECTIVE', 'NOUN' or 'VERB'
+- 'ADJECTIVE', 'NOUN' or 'VERB' are the keywords letting the program know that those words are to be replaced
+
+************************************
+
+Have fun:
+- when you run the program it will ask you for a word: adjective, noun or verb
+- type in the words that you are asked for, be creative!
+- then your funny (I hope!) sentence will appear on the screen
